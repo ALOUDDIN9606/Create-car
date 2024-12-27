@@ -13,8 +13,8 @@ function App() {
     <>
       {/* <Hero />
       {/* <Food /> */}
-      {/* <Car /> */}
-      <Todo />
+      <Car />
+      {/* <Todo /> */}
     </>
   )
 }
